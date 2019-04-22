@@ -1,9 +1,8 @@
 # D1mini_Temperature_sensor
 
-Diese Projekt soll dem D1 Mini mit der Firmware von [OpenData Stuttgart](https://github.com/opendata-stuttgart/sensors-software) ([Luftdaten.info](https://luftdaten.info))
-und dem BME280 Temperatur Sensor eine kleine Überwachungstation bilden.
+Diese Projekt soll mit dem D1 Mini, mit der Firmware von [OpenData Stuttgart](https://github.com/opendata-stuttgart/sensors-software) ([Luftdaten.info](https://luftdaten.info)) und dem BME280 Temperatur Sensor eine kleine Überwachungstation bilden.
 
-Hierzu versuche ich eine 3D gedruckte Box zu erstellen.
+Ich möchte das ganze in eine 3D gedruckte Box packen. (dafür dieses Projekt)
 
 Momentan sind es nur die ersten Versuche. 
 
@@ -20,7 +19,7 @@ Hier eine kleine Vorschau:
 <img alt="Die Box" src="https://raw.githubusercontent.com/gerald-b/D1mini_Temperature_sensor/master/D1mini_Temperature_box.png" width=200 />
 <img alt="Der Deckel" src="https://raw.githubusercontent.com/gerald-b/D1mini_Temperature_sensor/master/D1mini_Temperature_box_Deckel.png" width=200 />
 
-
+Meine verwendete Hardware:
 - D1 Mini [AZ Delivery](https://www.az-delivery.de/products/d1-mini?ls=de)  oder AZDeivery bei [Amazon](https://www.amazon.de/AZDelivery-D1-Mini-Entwicklungsboard-kompatibel/dp/B0754N794H)
 - BME280 [AZ-Delivery](https://www.az-delivery.de/products/gy-bme280?ls=de) oder AZDeivery bei [Amazon](https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Temperatur-Luftfeuchtigkeit/dp/B07FS95JXT)
 
