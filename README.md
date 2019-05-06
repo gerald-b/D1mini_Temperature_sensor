@@ -1,6 +1,6 @@
 # D1mini_Temperature_sensor
 
-Diese Projekt soll mit dem D1 Mini, mit der Firmware von [OpenData Stuttgart](https://github.com/opendata-stuttgart/sensors-software) ([Luftdaten.info](https://luftdaten.info)) und dem BME280 Temperatur Sensor eine kleine Überwachungstation bilden.
+Dieses Projekt soll mit dem D1 Mini, mit der Firmware vom [OpenData Stuttgart](https://github.com/opendata-stuttgart/sensors-software) ([Luftdaten.info](https://luftdaten.info)) und dem BME280 Temperatur Sensor eine kleine Überwachungstation bilden.
 
 Ich möchte das ganze in eine 3D gedruckte Box packen. (dafür dieses Projekt)
 
